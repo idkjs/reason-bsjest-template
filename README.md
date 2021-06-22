@@ -1,4 +1,4 @@
-# A template for [rolling up](https://rollupjs.org/guide/en/) ReasonML/Rescript libs for use in Typescript/Reason/Rescript/Js
+# A template for getting bs-jest tests to work ReasonML/Rescript libs for use in Typescript/Reason/Rescript/Js
 
 ```
 npm run build
